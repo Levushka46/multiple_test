@@ -1,4 +1,4 @@
-from src.module import multiplication
+from module import multiplication
 
 def test_multiplication():
     assert multiplication(1, 2) == 2
